@@ -3,7 +3,7 @@ name: Ejecutar Script Python y Crear PR
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
