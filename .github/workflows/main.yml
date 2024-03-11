@@ -1,0 +1,26 @@
+name: Ejecutar Script Python y Crear PR
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Configurar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Execute python script
+        run: |
+          python csv-to-json.py
+
+      # Agrega una nueva sección para crear el PR
+      # Pendiente de agregar flujo PR
