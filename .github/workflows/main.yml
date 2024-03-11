@@ -26,7 +26,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.POC_TOKEN }}
           commit-message: "Update radar.json"
           branch: feature/json-file
           title: "Automatic update"
