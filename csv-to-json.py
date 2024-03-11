@@ -34,10 +34,51 @@ def csv_to_json(csvFilePath, jsonFilePath):
         # Convert each csv row into python dict
         data = [row for row in csvReader]
 
+        # Definir la base del objeto
+        response = define_backstage_json()
+        for element in data:
+            print(element_to_entry(element))
+            #response["entries"].append(element_to_entry(element))
+
+
     # Convert python data Array to JSON String and write to file
     with open(jsonFilePath, "w", encoding="utf-8") as jsonfile:
-        jsonString = json.dumps(data, indent=4)
-        jsonfile.write(jsonString)
+        response = json.dumps(response, indent=4)
+        jsonfile.write(response)
+
+
+def define_backstage_json():
+    return {
+        "quadrants" : [
+            { "id" : "techniques", "name" : "Techniques" },
+            { "id" : "platforms", "name" : "Platforms" },
+            { "id" : "language-and-frameworks", "name" : "Language and frameworks" },
+            { "id" : "tools", "name" : "Tools" }  
+        ],
+        "rings" : [
+            { "id" : "adopt", "name" : "ADOPT", "color" : "#93c47d" },
+            { "id" : "trial", "name" : "TRIAL", "color" : "#93d2c2" },
+            { "id" : "assess", "name" : "ASSESS", "color" : "#fbdb84" },
+            { "id" : "hold", "name" : "HOLD", "color" : "#efafa9" }    
+        ],
+        "entries": []
+    }
+
+def element_to_entry(element):
+    return {
+      "quadrant": element["quadrant"],
+      "description": element["description"],
+      "key": element["name"],
+      "id": element["name"],
+      "title": element["name"],
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": element["ring"],
+          "date": "2022-12-09"
+        }
+      ]
+    }
 
 
 # Csv data file path

@@ -1,0 +1,30 @@
+{ 
+  "quadrants" : [
+    { "id" : "techniques", "name" : "Techniques" },
+    { "id" : "platforms", "name" : "Platforms" },
+    { "id" : "language-and-frameworks", "name" : "Language and frameworks" },
+    { "id" : "tools", "name" : "Tools" }  
+  ],
+  "rings" : [
+    { "id" : "adopt", "name" : "ADOPT", "color" : "#93c47d" },
+    { "id" : "trial", "name" : "TRIAL", "color" : "#93d2c2" },
+    { "id" : "assess", "name" : "ASSESS", "color" : "#fbdb84" },
+    { "id" : "hold", "name" : "HOLD", "color" : "#efafa9" }    
+  ],
+  "entries": [
+    {
+      "quadrant": "#{quadrant}",
+      "description": "#{description}",
+      "key": "#{name}",
+      "id": "#{name}",
+      "title": "#{name}",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "#{ring}",
+          "date": "2022-12-09"
+        }
+      ]
+    }
+  ]
+}
