@@ -23,4 +23,11 @@ jobs:
           python csv-to-json.py
 
       # Agrega una nueva sección para crear el PR
-      # Pendiente de agregar flujo PR
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Update radar.json"
+          branch: feature/json-file
+          title: "Automatic update"
+          body: "Automatic update for radar.json."
