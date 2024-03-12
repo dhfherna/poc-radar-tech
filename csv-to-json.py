@@ -19,7 +19,6 @@ def csv_to_json(csvFilePath, jsonFilePath):
             x = next(csvReader)
             # Gets the list of keys in the csv dictionary
             key = list(x.keys())[0]
-            print(key)
         except:
             return print("The CSV file has no items")
 
@@ -32,14 +31,25 @@ def csv_to_json(csvFilePath, jsonFilePath):
             csvReader = csv.DictReader(csvfile, delimiter=";")
 
         # Convert each csv row into python dict
-        data = [row for row in csvReader]
+        data_dict = [row for row in csvReader]
+        clean_data_dict = []
+
+        print(data_dict)
+        # Recorrer las claves del diccionario original
+        for data in data_dict:
+            for key in data.keys():
+                # Eliminar los espacios al final de la clave usando strip()
+                clean_key = key.strip()
+                
+                #print("llave ",clean_key)
+                #print("valor ",data[key])
+                #clean_data_dict[clean_key] = data[key]
 
         # Definir la base del objeto
         response = define_backstage_json()
-        for element in data:
-            print(element_to_entry(element))
+        for element in data_dict:
+            return True
             #response["entries"].append(element_to_entry(element))
-
 
     # Convert python data Array to JSON String and write to file
     with open(jsonFilePath, "w", encoding="utf-8") as jsonfile:
@@ -49,35 +59,30 @@ def csv_to_json(csvFilePath, jsonFilePath):
 
 def define_backstage_json():
     return {
-        "quadrants" : [
-            { "id" : "techniques", "name" : "Techniques" },
-            { "id" : "platforms", "name" : "Platforms" },
-            { "id" : "language-and-frameworks", "name" : "Language and frameworks" },
-            { "id" : "tools", "name" : "Tools" }  
+        "quadrants": [
+            {"id": "techniques", "name": "Techniques"},
+            {"id": "platforms", "name": "Platforms"},
+            {"id": "language-and-frameworks", "name": "Language and frameworks"},
+            {"id": "tools", "name": "Tools"},
         ],
-        "rings" : [
-            { "id" : "adopt", "name" : "ADOPT", "color" : "#93c47d" },
-            { "id" : "trial", "name" : "TRIAL", "color" : "#93d2c2" },
-            { "id" : "assess", "name" : "ASSESS", "color" : "#fbdb84" },
-            { "id" : "hold", "name" : "HOLD", "color" : "#efafa9" }    
+        "rings": [
+            {"id": "adopt", "name": "ADOPT", "color": "#93c47d"},
+            {"id": "trial", "name": "TRIAL", "color": "#93d2c2"},
+            {"id": "assess", "name": "ASSESS", "color": "#fbdb84"},
+            {"id": "hold", "name": "HOLD", "color": "#efafa9"},
         ],
-        "entries": []
+        "entries": [],
     }
+
 
 def element_to_entry(element):
     return {
-      "quadrant": element["quadrant"],
-      "description": element["description"],
-      "key": element["name"],
-      "id": element["name"],
-      "title": element["name"],
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": element["ring"],
-          "date": "2022-12-09"
-        }
-      ]
+        "quadrant": element["quadrant"],
+        "description": element["description"],
+        "key": element["name"],
+        "id": element["name"],
+        "title": element["name"],
+        "timeline": [{"moved": 0, "ringId": element["ring"], "date": "2022-12-09"}],
     }
 
 

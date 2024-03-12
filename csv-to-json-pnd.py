@@ -4,7 +4,7 @@ import time
 def csv_to_json_pnd(csvFilePath, jsonFilePath):
     # Read csv file
     df = pd.read_csv (csvFilePath)
-    df.to_json (jsonFilePath)
+    print(df)
 
 # Csv data file path
 csvFilePath = r"radar.csv"
