@@ -2,8 +2,8 @@ name: Ejecutar Script Python y Crear PR
 
 on:
   push:
-    branches:
-      - master
+    paths:
+      - 'radar.csv'
 
 jobs:
   build:
@@ -22,12 +22,10 @@ jobs:
         run: |
           python csv-to-json.py
 
-      # Agrega una nueva sección para crear el PR
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
-        with:
-          token: ${{ secrets.POC_TOKEN }}
-          commit-message: "Update radar.json"
-          branch: feature/json-file
-          title: "Automatic update"
-          body: "Automatic update for radar.json."
+      - name: Commit changes to main
+        run: |
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add .
+          git commit -m "Update radar-backstage.json"
+          git push origin main
