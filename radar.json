@@ -182,7 +182,7 @@
         },
         {
             "quadrant": "language-and-frameworks",
-            "description": "<p><strong>Node.js</strong> is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting\u00e2\u20ac\u201drunning scripts server-side to produce dynamic web page content before the page is sent to the user's web browser</p> ",
+            "description": "<p><strong>Node.js</strong> is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting\u2014running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser</p> ",
             "key": "NodeJs ",
             "id": "NodeJs ",
             "title": "NodeJs ",
@@ -238,7 +238,7 @@
         },
         {
             "quadrant": "language-and-frameworks",
-            "description": "<p><b>RPG</b> is a high-level fully procedural programming language used by businesses to create commercial business applications on IBM\u00e2\u20ac\u2122s leading minicomputer system, the AS400 or iSeries. RPG has gained wide acceptance and has evolved massively since its inception. Today several ERP\u00e2\u20ac\u2122s and mission critical business applications, are written in RPG based on RPG IV, because it is enabled to provide an interactive programming environment to AS400 RPG Programmers.</p>",
+            "description": "<p><b>RPG</b> is a high-level fully procedural programming language used by businesses to create commercial business applications on IBM\u2019s leading minicomputer system, the AS400 or iSeries. RPG has gained wide acceptance and has evolved massively since its inception. Today several ERP\u2019s and mission critical business applications, are written in RPG based on RPG IV, because it is enabled to provide an interactive programming environment to AS400 RPG Programmers.</p>",
             "key": "RPG",
             "id": "RPG",
             "title": "RPG",
@@ -252,7 +252,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><b>Flutter</b> is Google\u00e2\u20ac\u2122s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It has an Expressive and Flexible UI, it brings Native Performance and it allows a fast development by using a rich set of fully-customizable widgets. </p>",
+            "description": "<p><b>Flutter</b> is Google\u2019s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It has an Expressive and Flexible UI, it brings Native Performance and it allows a fast development by using a rich set of fully-customizable widgets. </p>",
             "key": "Flutter",
             "id": "Flutter",
             "title": "Flutter",
@@ -266,7 +266,7 @@
         },
         {
             "quadrant": "language-and-frameworks",
-            "description": "<p>Mockito is a mocking framework for java. It lets you write tests with a clean and simple API. Mockito doesn\u00e2\u20ac\u2122t give you hangover because the tests are very readable and they produce clean verification errors</p> ",
+            "description": "<p>Mockito is a mocking framework for java. It lets you write tests with a clean and simple API. Mockito doesn\u2019t give you hangover because the tests are very readable and they produce clean verification errors</p> ",
             "key": "Mockito",
             "id": "Mockito",
             "title": "Mockito",
@@ -294,7 +294,7 @@
         },
         {
             "quadrant": "language-and-frameworks",
-            "description": "<p>Elixir is an alternative language for the Erlang virtual machine that allows you to write cleaner, more compact code that does a better job of revealing your intentions. You write programs in Elixir and run them normally in BEAM.<br> Elixir targets the Erlang runtime. The result of compiling the Elixir source code is BEAM-compliant bytecode files that can run in a BEAM instance and can normally cooperate with pure Erlang code \u00e2\u20ac\u201d you can use Erlang libraries from Elixir and vice versa. There\u00e2\u20ac\u2122s nothing you can do in Erlang that can\u00e2\u20ac\u2122t be done in Elixir, and usually the Elixir code is as performant as its Erlang counterpart.<br> Elixir provides constructs that make it possible to radically reduce boilerplate and duplication. <br> Elixir solution is usually easier to develop and maintain thanks to some nice syntactic sugar and a uniform tool for creating and packaging systems. </p>",
+            "description": "<p>Elixir is an alternative language for the Erlang virtual machine that allows you to write cleaner, more compact code that does a better job of revealing your intentions. You write programs in Elixir and run them normally in BEAM.<br> Elixir targets the Erlang runtime. The result of compiling the Elixir source code is BEAM-compliant bytecode files that can run in a BEAM instance and can normally cooperate with pure Erlang code \u2014 you can use Erlang libraries from Elixir and vice versa. There\u2019s nothing you can do in Erlang that can\u2019t be done in Elixir, and usually the Elixir code is as performant as its Erlang counterpart.<br> Elixir provides constructs that make it possible to radically reduce boilerplate and duplication. <br> Elixir solution is usually easier to develop and maintain thanks to some nice syntactic sugar and a uniform tool for creating and packaging systems. </p>",
             "key": "Elixir - Erlang/OTP",
             "id": "Elixir - Erlang/OTP",
             "title": "Elixir - Erlang/OTP",
@@ -588,7 +588,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><strong><a href=\"https://istio.io/\">Istio</a></strong> is becoming the  factor of  infrastructure to operationalize a <a href=\"https://martinfowler.com/articles/microservices.html\">microservices</a> ecosystem. Its out-of-the-box implementation of cross-cutting concerns \u00e2\u20ac\u201d such as service discovery, service-to-service and origin-to-service security, observability (including telemetry and distributed tracing), rolling releases and resiliency \u00e2\u20ac\u201d has been bootstrapping our microservices implementations very quickly. It's the main implementation of the <a href=\"/radar/techniques/service-mesh\">service mesh</a> technique we've been using. We've been enjoying its monthly releases and its continuous improvements with seamless upgrades. We use Istio to bootstrap our projects, starting with observability (tracing and telemetry) and service-to-service security. We're closely watching its improvements to service-to-service authentication everywhere in and outside of the mesh. We'd also like to see Istio establish best practices for configuration files to strike a balance between giving autonomy to service developers and control to the service mesh operators.</p> ",
+            "description": "<p><strong><a href=\"https://istio.io/\">Istio</a></strong> is becoming the  factor of  infrastructure to operationalize a <a href=\"https://martinfowler.com/articles/microservices.html\">microservices</a> ecosystem. Its out-of-the-box implementation of cross-cutting concerns \u2014 such as service discovery, service-to-service and origin-to-service security, observability (including telemetry and distributed tracing), rolling releases and resiliency \u2014 has been bootstrapping our microservices implementations very quickly. It's the main implementation of the <a href=\"/radar/techniques/service-mesh\">service mesh</a> technique we've been using. We've been enjoying its monthly releases and its continuous improvements with seamless upgrades. We use Istio to bootstrap our projects, starting with observability (tracing and telemetry) and service-to-service security. We're closely watching its improvements to service-to-service authentication everywhere in and outside of the mesh. We'd also like to see Istio establish best practices for configuration files to strike a balance between giving autonomy to service developers and control to the service mesh operators.</p> ",
             "key": "Istio",
             "id": "Istio",
             "title": "Istio",
@@ -644,7 +644,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><b>Rational Team Concert\u00e2\u201e\u00a2</b> is a team collaboration tool that is built on a scalable, extensible platform. Rational Team Concert uses the Change and Configuration Management (CCM) application to provide features that integrate development project tasks including iteration planning, process definition, change management, defect tracking, source control, build automation, and reporting.<br> Know more <a href=\"https://www.ibm.com/support/knowledgecenter/en/SSYMRC_6.0.0/com.ibm.team.concert.doc/topics/c_product-overview.html\">here</a> </p>",
+            "description": "<p><b>Rational Team Concert\u2122</b> is a team collaboration tool that is built on a scalable, extensible platform. Rational Team Concert uses the Change and Configuration Management (CCM) application to provide features that integrate development project tasks including iteration planning, process definition, change management, defect tracking, source control, build automation, and reporting.<br> Know more <a href=\"https://www.ibm.com/support/knowledgecenter/en/SSYMRC_6.0.0/com.ibm.team.concert.doc/topics/c_product-overview.html\">here</a> </p>",
             "key": "Rational Team Concert",
             "id": "Rational Team Concert",
             "title": "Rational Team Concert",
@@ -658,7 +658,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><b>Feature Flags or Feature Toogles </b>is a technique widely used by new architectures and deployment models that require the release of features in a fast and safe way for the user experience, allowing enabling or disabling features in production without the need to redeploy to all users or specific user segments, favors the practice of Trunk Based Development, as well as hot variations of features on mobile devices where it is difficult to achieve an update of all users.<br> Know more <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/6756/Cultura-Feature-Flags\">aqu\u00c3\u00ad</a> </p>",
+            "description": "<p><b>Feature Flags or Feature Toogles </b>is a technique widely used by new architectures and deployment models that require the release of features in a fast and safe way for the user experience, allowing enabling or disabling features in production without the need to redeploy to all users or specific user segments, favors the practice of Trunk Based Development, as well as hot variations of features on mobile devices where it is difficult to achieve an update of all users.<br> Know more <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/6756/Cultura-Feature-Flags\">aqu\u00ed</a> </p>",
             "key": "Feature Flags Bancolombia",
             "id": "Feature Flags Bancolombia",
             "title": "Feature Flags Bancolombia",
@@ -700,7 +700,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>We've seen significant benefits from introducing <a href=\"https://martinfowler.com/articles/microservices.html\">microservices</a>, which have allowed teams to scale the delivery of independently deployed and maintained services. Unfortunately, we've also seen many teams create a frontend monolith \u00e2\u20ac\u201d a large, entangled browser application that sits on top of the backend services \u00e2\u20ac\u201d largely neutralizing the benefits of microservices. Since we first described <strong>micro frontends</strong> as a technique to address this issue, we've had almost universally positive experiences with the approach and have found a number of patterns to use micro frontends even as more and more code shifts from the server to the web browser. So far, <a href=\"/radar/platforms/web-components-standard\">web components</a> have been elusive in this field, though.</p> ",
+            "description": "<p>We've seen significant benefits from introducing <a href=\"https://martinfowler.com/articles/microservices.html\">microservices</a>, which have allowed teams to scale the delivery of independently deployed and maintained services. Unfortunately, we've also seen many teams create a frontend monolith \u2014 a large, entangled browser application that sits on top of the backend services \u2014 largely neutralizing the benefits of microservices. Since we first described <strong>micro frontends</strong> as a technique to address this issue, we've had almost universally positive experiences with the approach and have found a number of patterns to use micro frontends even as more and more code shifts from the server to the web browser. So far, <a href=\"/radar/platforms/web-components-standard\">web components</a> have been elusive in this field, though.</p> ",
             "key": "Microfrontends",
             "id": "Microfrontends",
             "title": "Microfrontends",
@@ -728,7 +728,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>In the last year we have seen <strong>Chaos Engineering</strong> go from being a much talked about idea to an accepted, widely accepted idea to improve and ensure the resiliency of distributed systems. As organizations large and small begin to implement Chaos Engineering as an operational process, we are learning how to safely apply these techniques on a large scale. The approach is definitely not for everyone and to be effective and secure requires large-scale organizational support. Industry acceptance and availability of experts will definitely increase with the advent of commercial services such as <a href=\"/radar/tools/gremlin\">Gremlin</a>and deployment tools such as <a href=\"/radar/tools/spinnaker\">Spinnaker</a> implementing some Chaos Engineering tools. Check <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/12088/Continuous-Chaos\">here\u00ef\u00bf\u00bd</a> regarding Chaos Engineering in Bancolombia.</p> ",
+            "description": "<p>In the last year we have seen <strong>Chaos Engineering</strong> go from being a much talked about idea to an accepted, widely accepted idea to improve and ensure the resiliency of distributed systems. As organizations large and small begin to implement Chaos Engineering as an operational process, we are learning how to safely apply these techniques on a large scale. The approach is definitely not for everyone and to be effective and secure requires large-scale organizational support. Industry acceptance and availability of experts will definitely increase with the advent of commercial services such as <a href=\"/radar/tools/gremlin\">Gremlin</a>and deployment tools such as <a href=\"/radar/tools/spinnaker\">Spinnaker</a> implementing some Chaos Engineering tools. Check <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/12088/Continuous-Chaos\">here\ufffd</a> regarding Chaos Engineering in Bancolombia.</p> ",
             "key": "Chaos Engineering",
             "id": "Chaos Engineering",
             "title": "Chaos Engineering",
@@ -770,7 +770,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p><b>ACID</b> is an acronym that stands for Atomicity, Consistency, Isolation and Durability, characteristics of SQL databases, and that basically guarantee consistency and availability but are not easily distributed or tolerant to partitioning as indicated in the  <a href=\"https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/1773/Tipos-de-bases-de-datos\">CAP theorem</a>. There is Eventual Consistency when there is Eventual Delivery, Convergence and Termination. Strong Eventual Consistency occurs when there is Strong Convergence. This practice is often a good option for keeping data immutable in distributed systems, but it is not suitable for all cases. You can see below the guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/9425/Strong-Eventual-Consistency-(ACID-2.0)\">Strong Eventual Consistency (ACID 2.0)</a></p> ",
+            "description": "<p><b>ACID</b> is an acronym that stands for Atomicity, Consistency, Isolation and Durability, characteristics of SQL databases, and that basically guarantee consistency and availability but are not easily distributed or tolerant to partitioning as indicated in the  <a href=\"https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/1773/Tipos-de-bases-de-datos\">CAP theorem</a>. There is Eventual Consistency when there is Eventual Delivery, Convergence and Termination. Strong Eventual Consistency occurs when there is Strong Convergence. This practice is often a good option for keeping data immutable in distributed systems, but it is not suitable for all cases. You can see below the guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/9425/Strong-Eventual-Consistency-(ACID-2.0)\">Strong Eventual Consistency (ACID 2.0)</a></p> ",
             "key": "Strong eventual consistency (ACID 2.0)",
             "id": "Strong eventual consistency (ACID 2.0)",
             "title": "Strong eventual consistency (ACID 2.0)",
@@ -812,7 +812,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>Distributed in-memory application data caches like memcached are a popular solution for scaling database-driven web sites. These systems are easy to add to existing deployments, and increase performance significantly by reducing load on both the database and application servers. Unfortunately, such caches do not integrate well with the database or the application. They cannot maintain transactional consistency across the entire system, violating the isolation properties of the underlying database. <br>They leave the application responsible for locating data in the cache and keeping it up to date, a frequent source of application complexity and programming errors. <br>Addressing both of these problems, there are options as transactional caches. Some cases shows that adding a transactinoal cache can increase the throughput of a web application by up to 5.2\u00c3\u2014, only slightly less than a non-transactional cache, showing that consistency does not have to come at the price of performance.<br> Know more reading the article<a href=\"https://drkp.net/papers/txcache-osdi10.pdf\">Transactional Consistency and Automatic Management in an Application Data Cache</a>, published by Dan R. K. Ports, Austin T. Clements, Irene Zhang, Samuel Madden and Barbara Liskov in MIT CSAIL. </p>",
+            "description": "<p>Distributed in-memory application data caches like memcached are a popular solution for scaling database-driven web sites. These systems are easy to add to existing deployments, and increase performance significantly by reducing load on both the database and application servers. Unfortunately, such caches do not integrate well with the database or the application. They cannot maintain transactional consistency across the entire system, violating the isolation properties of the underlying database. <br>They leave the application responsible for locating data in the cache and keeping it up to date, a frequent source of application complexity and programming errors. <br>Addressing both of these problems, there are options as transactional caches. Some cases shows that adding a transactinoal cache can increase the throughput of a web application by up to 5.2\u00d7, only slightly less than a non-transactional cache, showing that consistency does not have to come at the price of performance.<br> Know more reading the article<a href=\"https://drkp.net/papers/txcache-osdi10.pdf\">Transactional Consistency and Automatic Management in an Application Data Cache</a>, published by Dan R. K. Ports, Austin T. Clements, Irene Zhang, Samuel Madden and Barbara Liskov in MIT CSAIL. </p>",
             "key": "Consistency and effective use of cache",
             "id": "Consistency and effective use of cache",
             "title": "Consistency and effective use of cache",
@@ -840,7 +840,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>At very first, Saga pattern was proposed by Hector Garc\u00c3\u00ada-Molina and Kenneth Salem as a sophisticated solution for the Long lived Transactions problem. A LLT is a saga if it can be written as a sequence of transactions that can be interleaved with other transactions The database management system guarantees that either all the transactions m a saga are successfully completed or compensatmg transactions are run to amend a partial execution Both the concept of saga and its lmplementation are relatively simple, but they have the potential to improve performance slgmficantly. Chris Richardsion defines a saga as <i>a sequence of local transactions. Each local transaction updates the database and publishes a message or event to trigger the next local transaction in the saga. If a local transaction fails because it violates a business rule then the saga executes a series of compensating transactions that undo the changes that were made by the preceding local transactions.</i><br> Know more reading the original Garc\u00c3\u00ada-Molina and Salem's paper titled<a href=\"https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf\"> Sagas</a> and <a href=\"https://microservices.io/patterns/data/saga.html\">Chris Richardson's definition</a> </p>",
+            "description": "<p>At very first, Saga pattern was proposed by Hector Garc\u00eda-Molina and Kenneth Salem as a sophisticated solution for the Long lived Transactions problem. A LLT is a saga if it can be written as a sequence of transactions that can be interleaved with other transactions The database management system guarantees that either all the transactions m a saga are successfully completed or compensatmg transactions are run to amend a partial execution Both the concept of saga and its lmplementation are relatively simple, but they have the potential to improve performance slgmficantly. Chris Richardsion defines a saga as <i>a sequence of local transactions. Each local transaction updates the database and publishes a message or event to trigger the next local transaction in the saga. If a local transaction fails because it violates a business rule then the saga executes a series of compensating transactions that undo the changes that were made by the preceding local transactions.</i><br> Know more reading the original Garc\u00eda-Molina and Salem's paper titled<a href=\"https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf\"> Sagas</a> and <a href=\"https://microservices.io/patterns/data/saga.html\">Chris Richardson's definition</a> </p>",
             "key": "Compensation transactions- Saga pattern",
             "id": "Compensation transactions- Saga pattern",
             "title": "Compensation transactions- Saga pattern",
@@ -854,7 +854,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>Immutable data / Append-Only Apps\u00e2\u20ac\u2039 are qualities contained within append-only computing. In append-only computing, observations are recorded forever (or for a long time). Derived results are calculated on demand (or periodically precalculated). <br>This is similar to a DBMS (database management system) in which transaction logs record all the changes made to the database. High-speed appends are the only way to change the log. From this perspective, the contents of the database hold a caching of the latest record values in the logs. The truth is the log. The database is a cache of a subset of the log. That cached subset happens to be the latest value of each record and index value from the log. <br>You can learn more about <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/12436/Event-First-Domain-driven-Design-(DDD)\">Immutable data / Append-Only Apps\u00e2\u20ac\u2039</a> </p>",
+            "description": "<p>Immutable data / Append-Only Apps\u200b are qualities contained within append-only computing. In append-only computing, observations are recorded forever (or for a long time). Derived results are calculated on demand (or periodically precalculated). <br>This is similar to a DBMS (database management system) in which transaction logs record all the changes made to the database. High-speed appends are the only way to change the log. From this perspective, the contents of the database hold a caching of the latest record values in the logs. The truth is the log. The database is a cache of a subset of the log. That cached subset happens to be the latest value of each record and index value from the log. <br>You can learn more about <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/12436/Event-First-Domain-driven-Design-(DDD)\">Immutable data / Append-Only Apps\u200b</a> </p>",
             "key": "Immutable data / Append-Only Apps",
             "id": "Immutable data / Append-Only Apps",
             "title": "Immutable data / Append-Only Apps",
@@ -868,7 +868,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>Currently there is a wide range of both type and brand, each with a defined objective and capabilities. For this reason, it is important to know the guide to recognize the <b>Limitations and characteristics of different SQL/NoSQL\u00e2\u20ac\u2039</b> distributed data models. <br>Let us remember Brewer's theorem or CAP theorem, which mentions three characteristics, indicating that databases can only take two: <br>In the case of relational databases (Relational Data Base Management Systems) Usually you have Consistency and Availability, while non-relational databases usually have a combination of Availability and Partitioning or Consistency and Partitioning.<br> Learn more about this guide <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/1773/Tipos-de-bases-de-datos\">here\u00ef\u00bf\u00bd</a> </p>",
+            "description": "<p>Currently there is a wide range of both type and brand, each with a defined objective and capabilities. For this reason, it is important to know the guide to recognize the <b>Limitations and characteristics of different SQL/NoSQL\u200b</b> distributed data models. <br>Let us remember Brewer's theorem or CAP theorem, which mentions three characteristics, indicating that databases can only take two: <br>In the case of relational databases (Relational Data Base Management Systems) Usually you have Consistency and Availability, while non-relational databases usually have a combination of Availability and Partitioning or Consistency and Partitioning.<br> Learn more about this guide <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/1773/Tipos-de-bases-de-datos\">here\ufffd</a> </p>",
             "key": "Limitations and characteristics of different SQL/NoSQL distributed data models",
             "id": "Limitations and characteristics of different SQL/NoSQL distributed data models",
             "title": "Limitations and characteristics of different SQL/NoSQL distributed data models",
@@ -882,7 +882,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p> Retry is a fairly simple pattern that is useful when you get an unexpected response or no response at all. Simply, it is about the number of retries that an application can execute in order to obtain the expected response for a request. In order for the pattern to be used successfully, the retries must be able to be configured a certain number of times. It is useful when there are network problems, internal errors of the consumed server, because there are no responses or they are very slow. It is useless if the component to consume is overloaded with requests. In Bancolombia, the Retry pattern is not applied alone, it is done in conjunction with <b>Circuit Breaker</b>. It is often useful for some operations that use Retry to be idempotent. <b>Idempotency</b> is a property used in mathematics and computer science, where certain operations can be applied multiple times without changing the result after the first interaction. It is applied in scenarios where the client can make retries on the request and where these can generate untimely changes or damage. Apply Idempotence preferably in relevant operations, as this operation can add latencies, so it is not recommended in all operations. This can be done through the use of <b>idempotence http headers</b>. See the guidelines of <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/8547/Circuit-breakers-and-Fallback-strategy\">Retry</a> e <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/7826/Idempotencia\"> Idempotence</a></p> ",
+            "description": "<p> Retry is a fairly simple pattern that is useful when you get an unexpected response or no response at all. Simply, it is about the number of retries that an application can execute in order to obtain the expected response for a request. In order for the pattern to be used successfully, the retries must be able to be configured a certain number of times. It is useful when there are network problems, internal errors of the consumed server, because there are no responses or they are very slow. It is useless if the component to consume is overloaded with requests. In Bancolombia, the Retry pattern is not applied alone, it is done in conjunction with <b>Circuit Breaker</b>. It is often useful for some operations that use Retry to be idempotent. <b>Idempotency</b> is a property used in mathematics and computer science, where certain operations can be applied multiple times without changing the result after the first interaction. It is applied in scenarios where the client can make retries on the request and where these can generate untimely changes or damage. Apply Idempotence preferably in relevant operations, as this operation can add latencies, so it is not recommended in all operations. This can be done through the use of <b>idempotence http headers</b>. See the guidelines of <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/8547/Circuit-breakers-and-Fallback-strategy\">Retry</a> e <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/7826/Idempotencia\"> Idempotence</a></p> ",
             "key": "Retry and idempotence",
             "id": "Retry and idempotence",
             "title": "Retry and idempotence",
@@ -910,7 +910,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>Fault Tolerance y Recovery pattern hacen referecia a los patrones de Circuit Breaker, Fallback y Retry. Conoce m\u00c3\u00a1s de ellos en el lineamiento sobre <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/8547/Circuit-breakers-and-Fallback-strategy\">Circuit breakers, Retry and Fallback strategy</a> </p>",
+            "description": "<p>Fault Tolerance y Recovery pattern hacen referecia a los patrones de Circuit Breaker, Fallback y Retry. Conoce m\u00e1s de ellos en el lineamiento sobre <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/8547/Circuit-breakers-and-Fallback-strategy\">Circuit breakers, Retry and Fallback strategy</a> </p>",
             "key": "Fault tolerance and recovery patterns",
             "id": "Fault tolerance and recovery patterns",
             "title": "Fault tolerance and recovery patterns",
@@ -938,7 +938,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p><b>Self-healing deployments</b> is a practice that guarantees the high availability of applications. To achieve a self-healing infrastructure, you need a tool that does such a job. At Bancolombia we have it and this is Kubernetes. In this case, the same tool that orchestrates the containers in the Cloud cluster is the one that acts as the curator of the deployments. The native Kubernetes container orchestrator capabilities make this possible, without requiring additional use of other Kubernetes capabilities. This is achieved with the proper configuration of the <b>deployment.yaml</b> file. However, it is possible to optimize this task with the use of the Kubernetes probes (Liveness and Readiness), thus favoring high availability and responsiveness of the applications. You can see below the practices that favor Self-healing: <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/7363/Health-Check\">Health check.</a></p> ",
+            "description": "<p><b>Self-healing deployments</b> is a practice that guarantees the high availability of applications. To achieve a self-healing infrastructure, you need a tool that does such a job. At Bancolombia we have it and this is Kubernetes. In this case, the same tool that orchestrates the containers in the Cloud cluster is the one that acts as the curator of the deployments. The native Kubernetes container orchestrator capabilities make this possible, without requiring additional use of other Kubernetes capabilities. This is achieved with the proper configuration of the <b>deployment.yaml</b> file. However, it is possible to optimize this task with the use of the Kubernetes probes (Liveness and Readiness), thus favoring high availability and responsiveness of the applications. You can see below the practices that favor Self-healing: <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/7363/Health-Check\">Health check.</a></p> ",
             "key": "Self Healing deployments (Container orchestation)",
             "id": "Self Healing deployments (Container orchestation)",
             "title": "Self Healing deployments (Container orchestation)",
@@ -952,7 +952,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p> Concurrency safe code uses certain techniques to address best practices to help you write clear and correct concurrent programs. With this practice, the typical and undesirable problems of concurrent systems, with multiple threads, frequent in languages such as Java, are solved. As Bancolombia has the majority of legacy and cloud-native applications made in this concurrent language, it is necessary to specify the compliance of these techniques in the code. Some of these techniques are Stateless implementations, Immutable implementations, Atomic Variable Class, among many others, contained in the guideline of <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/8157/Concurrency-Safe-Code%E2%80%8B\">Concurrency Safe Code</a></p> ",
+            "description": "<p> Concurrency safe code uses certain techniques to address best practices to help you write clear and correct concurrent programs. With this practice, the typical and undesirable problems of concurrent systems, with multiple threads, frequent in languages such as Java, are solved. As Bancolombia has the majority of legacy and cloud-native applications made in this concurrent language, it is necessary to specify the compliance of these techniques in the code. Some of these techniques are Stateless implementations, Immutable implementations, Atomic Variable Class, among many others, contained in the guideline of <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/8157/Concurrency-Safe-Code%E2%80%8B\">Concurrency Safe Code</a></p> ",
             "key": "Concurrency safe code",
             "id": "Concurrency safe code",
             "title": "Concurrency safe code",
@@ -980,7 +980,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p><b>Traceable and observable systems / logs management (Back/front) (Observability/audit))</b> help verify that developments are refined and working correctly. In addition, it helps analysts to understand any strange platform behavior and ensure that there is no failing method. Unfortunately, in many cases they fail to define and implement effective traceability, because the traces are created without following the standards, generating inconsistencies in the information recorded and, often, incomplete. <br>Learn more <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/8238/Traceable-and-observable-systems-logs-management\">aqu\u00c3\u00ad</a> </p>",
+            "description": "<p><b>Traceable and observable systems / logs management (Back/front) (Observability/audit))</b> help verify that developments are refined and working correctly. In addition, it helps analysts to understand any strange platform behavior and ensure that there is no failing method. Unfortunately, in many cases they fail to define and implement effective traceability, because the traces are created without following the standards, generating inconsistencies in the information recorded and, often, incomplete. <br>Learn more <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/8238/Traceable-and-observable-systems-logs-management\">aqu\u00ed</a> </p>",
             "key": "Traceable and observable systems / logs management (Back/front) ",
             "id": "Traceable and observable systems / logs management (Back/front) ",
             "title": "Traceable and observable systems / logs management (Back/front) ",
@@ -994,7 +994,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>The <b>Circuit Breaker</b> pattern consists of encapsulating and monitoring the requests, resulting in three phases of the circuit: open circuit (the operations are not executed and an auxiliary pattern such as fail fast or fallback is used). ), half-open circuit (temporary and periodic execution of requests) and closed circuit (all invocations to the service are executed). Fallback is a pattern that consists of looking for an alternative that processes the request successfully while the main service is not available, or returning empty information when it is optional information. You can see the complete guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/8547/Circuit-breakers-and-Fallback-strategy\">Circuit breakers and Fallback strategy</a></p> ",
+            "description": "<p>The <b>Circuit Breaker</b> pattern consists of encapsulating and monitoring the requests, resulting in three phases of the circuit: open circuit (the operations are not executed and an auxiliary pattern such as fail fast or fallback is used). ), half-open circuit (temporary and periodic execution of requests) and closed circuit (all invocations to the service are executed). Fallback is a pattern that consists of looking for an alternative that processes the request successfully while the main service is not available, or returning empty information when it is optional information. You can see the complete guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/8547/Circuit-breakers-and-Fallback-strategy\">Circuit breakers and Fallback strategy</a></p> ",
             "key": "Fallback strategy and Circuit breakers",
             "id": "Fallback strategy and Circuit breakers",
             "title": "Fallback strategy and Circuit breakers",
@@ -1022,7 +1022,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>Reactor and other reactive programming frameworks offer the possibility of developing non-blocking threads on top of the JVM. When we talk about a non-blocking stream, we mean an asynchronous stream that allows efficient management of demand (backpressure) and integrates directly with the functional APIs of Java 8. <br>One of the advantages of asynchronous streams is that they do not lock the system completely but allow parallel execution of asynchronous processes. This is made possible by the Reactive Streams specification, an initiative that provides a standard for non-blocking backpressure asynchronous stream processing. <br>Learn more  <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/16136/Uso-de-Flujos-as\u00c3\u00adncronos-y-no-bloqueantes\">here\u00ef\u00bf\u00bd</a> </p>",
+            "description": "<p>Reactor and other reactive programming frameworks offer the possibility of developing non-blocking threads on top of the JVM. When we talk about a non-blocking stream, we mean an asynchronous stream that allows efficient management of demand (backpressure) and integrates directly with the functional APIs of Java 8. <br>One of the advantages of asynchronous streams is that they do not lock the system completely but allow parallel execution of asynchronous processes. This is made possible by the Reactive Streams specification, an initiative that provides a standard for non-blocking backpressure asynchronous stream processing. <br>Learn more  <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/16136/Uso-de-Flujos-as\u00edncronos-y-no-bloqueantes\">here\ufffd</a> </p>",
             "key": "Asynchronous and non-blocking streams",
             "id": "Asynchronous and non-blocking streams",
             "title": "Asynchronous and non-blocking streams",
@@ -1036,7 +1036,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p><b>Event Sourcing</b> is an architectural pattern that is responsible for capturing all the changes that may occur in the application as a sequence of events. You can see the complete guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/10834/Event-Sourcing\">Event Sourcing</a></p> ",
+            "description": "<p><b>Event Sourcing</b> is an architectural pattern that is responsible for capturing all the changes that may occur in the application as a sequence of events. You can see the complete guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/10834/Event-Sourcing\">Event Sourcing</a></p> ",
             "key": "Event Sourcing",
             "id": "Event Sourcing",
             "title": "Event Sourcing",
@@ -1050,7 +1050,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p><b>Event-First Domain-driven Design (DDD)</b> refers to a set of design principles that have been used for some years and have proven to be of great utility for building large-scale distributed systems. <br>It consists of understanding the essence of a domain from the flow of data and not from isolated entities, becoming an alternative to traditional software design. This alternative seeks an interdisciplinary understanding of the problem to be solved, without focusing only on filling out templates and formats, but mainly on telling stories from a business language. <br>Learn more <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/12436/Event-First-Domain-driven-Design-(DDD)\">here\u00ef\u00bf\u00bd</a> </p>",
+            "description": "<p><b>Event-First Domain-driven Design (DDD)</b> refers to a set of design principles that have been used for some years and have proven to be of great utility for building large-scale distributed systems. <br>It consists of understanding the essence of a domain from the flow of data and not from isolated entities, becoming an alternative to traditional software design. This alternative seeks an interdisciplinary understanding of the problem to be solved, without focusing only on filling out templates and formats, but mainly on telling stories from a business language. <br>Learn more <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/12436/Event-First-Domain-driven-Design-(DDD)\">here\ufffd</a> </p>",
             "key": "Event first Domain driven design",
             "id": "Event first Domain driven design",
             "title": "Event first Domain driven design",
@@ -1078,7 +1078,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>When we talk about microservices architecture, we mean at a high level a set of independent modules that collaborate to achieve a larger business goal. A reactive system is a robust distributed system, for which the message-driven asynchronous communication approach is essential. The event-driven architecture paradigm is a distributed asynchronous architecture model used to produce highly scalable applications composed of single-purpose, highly decoupled event processing components that receive and process events asynchronously. The practice set forth in this definition focuses primarily on the semantics of commands and events. <br>Learn more  <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/11539/Event-driven-architecture-(Commands-and-Events)\">here\u00ef\u00bf\u00bd</a> </p>",
+            "description": "<p>When we talk about microservices architecture, we mean at a high level a set of independent modules that collaborate to achieve a larger business goal. A reactive system is a robust distributed system, for which the message-driven asynchronous communication approach is essential. The event-driven architecture paradigm is a distributed asynchronous architecture model used to produce highly scalable applications composed of single-purpose, highly decoupled event processing components that receive and process events asynchronously. The practice set forth in this definition focuses primarily on the semantics of commands and events. <br>Learn more  <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/11539/Event-driven-architecture-(Commands-and-Events)\">here\ufffd</a> </p>",
             "key": "Event driven architecture (Commands and Events)",
             "id": "Event driven architecture (Commands and Events)",
             "title": "Event driven architecture (Commands and Events)",
@@ -1092,7 +1092,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>When we talk about reactive systems we refer to distributed systems with certain qualities, which although they were compiled and described concisely in the reactive systems manifesto, it does not mean that these qualities are new or previously unknown. In fact, the vast majority of its fundamental principles date back to the design and implementation of Erlang/OTP by Ericsson, whose development began in the late 1980s. <br>Reactive programming will be the basis in many contexts for improving responsiveness, facilitating the management of asynchronous flows, in addition to increasing scalability and efficiency in the use of resources.<br>In addition, to achieve a high emphasis on the maintainability and extensibility of the system, n both <b>functional programming principles and patterns</b>, as well as a disciplined separation of responsibilities and levels of abstraction in the software structure. <br>Learn more <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/13807/Foundation-Sistemas-Reactivos\">here\u00ef\u00bf\u00bd</a> </p>",
+            "description": "<p>When we talk about reactive systems we refer to distributed systems with certain qualities, which although they were compiled and described concisely in the reactive systems manifesto, it does not mean that these qualities are new or previously unknown. In fact, the vast majority of its fundamental principles date back to the design and implementation of Erlang/OTP by Ericsson, whose development began in the late 1980s. <br>Reactive programming will be the basis in many contexts for improving responsiveness, facilitating the management of asynchronous flows, in addition to increasing scalability and efficiency in the use of resources.<br>In addition, to achieve a high emphasis on the maintainability and extensibility of the system, n both <b>functional programming principles and patterns</b>, as well as a disciplined separation of responsibilities and levels of abstraction in the software structure. <br>Learn more <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/13807/Foundation-Sistemas-Reactivos\">here\ufffd</a> </p>",
             "key": "Fuctional reactive programming",
             "id": "Fuctional reactive programming",
             "title": "Fuctional reactive programming",
@@ -1120,7 +1120,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p><b>Autoscale up and down</b> is a practice that seeks to autoscale Cloud-native applications. Obviously, it supports the scalability of solutions in Bancolombia. Cloud native technologies like Kubernetes allow you to build applications that adapt to changing loads. Kubernetes <b> Autoscaling </b> allows us to define a variable capacity for an application, which is not fixed, but guarantees enough capacity to handle a different load. The most direct approach to achieving such behavior is by using a <b>Horizontal Pod Autoscaler (HPA)</b> to horizontally scale the number of pods in the architecture. Find the definition in the wiki below: <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/1977/HPA-Horizontal-Pod-Autoscaling\">HPA</a></p> ",
+            "description": "<p><b>Autoscale up and down</b> is a practice that seeks to autoscale Cloud-native applications. Obviously, it supports the scalability of solutions in Bancolombia. Cloud native technologies like Kubernetes allow you to build applications that adapt to changing loads. Kubernetes <b> Autoscaling </b> allows us to define a variable capacity for an application, which is not fixed, but guarantees enough capacity to handle a different load. The most direct approach to achieving such behavior is by using a <b>Horizontal Pod Autoscaler (HPA)</b> to horizontally scale the number of pods in the architecture. Find the definition in the wiki below: <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/1977/HPA-Horizontal-Pod-Autoscaling\">HPA</a></p> ",
             "key": "Elastic (Auto scale out/down) deployments -Container Orchestation",
             "id": "Elastic (Auto scale out/down) deployments -Container Orchestation",
             "title": "Elastic (Auto scale out/down) deployments -Container Orchestation",
@@ -1148,7 +1148,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>When we talk about reactive systems we refer to distributed systems with certain qualities, which although they were compiled and described concisely in the reactive systems manifesto, it does not mean that these qualities are new or previously unknown. In fact, the vast majority of its fundamental principles date back to the design and implementation of Erlang/OTP by Ericsson, whose development began in the late 1980s. <br>Reactive programming will be the basis in many contexts for improving responsiveness, facilitating the management of asynchronous flows, in addition to increasing scalability and efficiency in the use of resources.<br>In addition, to achieve a high emphasis on the maintainability and extensibility of the system, n both <b>functional programming principles and patterns</b>, as well as a disciplined separation of responsibilities and levels of abstraction in the software structure. <br>Learn more <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/13807/Foundation-Sistemas-Reactivos\">here\u00ef\u00bf\u00bd</a> </p>",
+            "description": "<p>When we talk about reactive systems we refer to distributed systems with certain qualities, which although they were compiled and described concisely in the reactive systems manifesto, it does not mean that these qualities are new or previously unknown. In fact, the vast majority of its fundamental principles date back to the design and implementation of Erlang/OTP by Ericsson, whose development began in the late 1980s. <br>Reactive programming will be the basis in many contexts for improving responsiveness, facilitating the management of asynchronous flows, in addition to increasing scalability and efficiency in the use of resources.<br>In addition, to achieve a high emphasis on the maintainability and extensibility of the system, n both <b>functional programming principles and patterns</b>, as well as a disciplined separation of responsibilities and levels of abstraction in the software structure. <br>Learn more <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/13807/Foundation-Sistemas-Reactivos\">here\ufffd</a> </p>",
             "key": "Reactive programming",
             "id": "Reactive programming",
             "title": "Reactive programming",
@@ -1176,7 +1176,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p><b>Connection pool</b> or pool of connections is what is commonly known as the number of possible open connections that can be established from a backend service to a Database. It is a set of threads that have a more or less permanent connection to a database. <b>Connection Pool Sizing</b> is an important practice to carry out, since it allows objective estimation of the number of connections that can be established to a database, avoiding leaving too low default figures or discharges that threaten performance. You can see the complete guideline on<a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/9493/Connection-pool-sizing\">Connection Pool Sizing</a></p> ",
+            "description": "<p><b>Connection pool</b> or pool of connections is what is commonly known as the number of possible open connections that can be established from a backend service to a Database. It is a set of threads that have a more or less permanent connection to a database. <b>Connection Pool Sizing</b> is an important practice to carry out, since it allows objective estimation of the number of connections that can be established to a database, avoiding leaving too low default figures or discharges that threaten performance. You can see the complete guideline on<a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/9493/Connection-pool-sizing\">Connection Pool Sizing</a></p> ",
             "key": "Database connection pool sizing",
             "id": "Database connection pool sizing",
             "title": "Database connection pool sizing",
@@ -1190,7 +1190,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>Reactor and other reactive programming frameworks offer the possibility of developing non-blocking threads on top of the JVM. When we talk about a non-blocking stream, we mean an asynchronous stream that allows efficient management of demand (backpressure) and integrates directly with the functional APIs of Java 8. <br>One of the advantages of asynchronous streams is that they do not lock the system completely but allow parallel execution of asynchronous processes. This is made possible by the Reactive Streams specification, an initiative that provides a standard for non-blocking backpressure asynchronous stream processing. <br>Learn more <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/16136/Uso-de-Flujos-as\u00c3\u00adncronos-y-no-bloqueantes\">here\u00ef\u00bf\u00bd</a> </p>",
+            "description": "<p>Reactor and other reactive programming frameworks offer the possibility of developing non-blocking threads on top of the JVM. When we talk about a non-blocking stream, we mean an asynchronous stream that allows efficient management of demand (backpressure) and integrates directly with the functional APIs of Java 8. <br>One of the advantages of asynchronous streams is that they do not lock the system completely but allow parallel execution of asynchronous processes. This is made possible by the Reactive Streams specification, an initiative that provides a standard for non-blocking backpressure asynchronous stream processing. <br>Learn more <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/16136/Uso-de-Flujos-as\u00edncronos-y-no-bloqueantes\">here\ufffd</a> </p>",
             "key": "End to end reactive/non-blocking flow",
             "id": "End to end reactive/non-blocking flow",
             "title": "End to end reactive/non-blocking flow",
@@ -1218,7 +1218,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>With this practice we seek a different approach when thinking about the organization, an approach that seeks to find and define the different layers by business models rather than defining silos or pre-established layers in the organization. In turn, it is leveraged in the practice of (DDD)<a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/12436/Event-First-Domain-driven-Design-(DDD)\">Event-First Domain-driven Design</a>. Below you can learn more about: <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/12626/Domain-contexts-instead-of-Layered-Silos%E2%80%8B\">Domain-centric structure.</a></p> ",
+            "description": "<p>With this practice we seek a different approach when thinking about the organization, an approach that seeks to find and define the different layers by business models rather than defining silos or pre-established layers in the organization. In turn, it is leveraged in the practice of (DDD)<a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/12436/Event-First-Domain-driven-Design-(DDD)\">Event-First Domain-driven Design</a>. Below you can learn more about: <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/12626/Domain-contexts-instead-of-Layered-Silos%E2%80%8B\">Domain-centric structure.</a></p> ",
             "key": "Domain centered structure",
             "id": "Domain centered structure",
             "title": "Domain centered structure",
@@ -1232,7 +1232,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>The practice of <b>Design of internal APIs</b> seeks that the internal application APIs follow a standard to be designed and documented. For this, the creation of the API contract with Swagger is required, following OAS (OpenAPI Specification), which is a widely known and accepted format for designing and documenting REST APIs. You can see the complete guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/10038/Pr\u00c3\u00a1ctica-Dise\u00c3\u00b1o-de-APIs-internas\">Practice Design of internal APIs</a></p> ",
+            "description": "<p>The practice of <b>Design of internal APIs</b> seeks that the internal application APIs follow a standard to be designed and documented. For this, the creation of the API contract with Swagger is required, following OAS (OpenAPI Specification), which is a widely known and accepted format for designing and documenting REST APIs. You can see the complete guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/10038/Pr\u00e1ctica-Dise\u00f1o-de-APIs-internas\">Practice Design of internal APIs</a></p> ",
             "key": "Design of APIs / Contracts defined",
             "id": "Design of APIs / Contracts defined",
             "title": "Design of APIs / Contracts defined",
@@ -1302,7 +1302,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>The practice of <b>Fitness Functions</b> seeks the implementation of manual or automatic processes that help ensure that developments retain the most relevant non-functional characteristics. these can be owned by the development team or they can be owned by a more transversal component that watches over the different practices in the solutions. You can see the complete guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/10910/Fitness-Functions\">Fitness Functions</a></p> ",
+            "description": "<p>The practice of <b>Fitness Functions</b> seeks the implementation of manual or automatic processes that help ensure that developments retain the most relevant non-functional characteristics. these can be owned by the development team or they can be owned by a more transversal component that watches over the different practices in the solutions. You can see the complete guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/10910/Fitness-Functions\">Fitness Functions</a></p> ",
             "key": "Architectural Fitness Functions",
             "id": "Architectural Fitness Functions",
             "title": "Architectural Fitness Functions",
@@ -1316,7 +1316,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>A Bounded Context is a conceptual boundary that materializes in a software artifact: the microservice. Finding them is an interdisciplinary and objective process through which conceptual and logical limits are identified that clearly show the grouping of common functionalities. It seeks to narrow down the total scope of an application somewhat, modeling the responsibilities of the components, through a rigorous process of identifying common functionalities that make it possible to establish a logical limit of responsibilities. See the guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/13194/Bounded-contexts-como-Microservicios?anchor=bounded-contexts-como-microservicios\">Bounded contexts as Microservices.</a></p> ",
+            "description": "<p>A Bounded Context is a conceptual boundary that materializes in a software artifact: the microservice. Finding them is an interdisciplinary and objective process through which conceptual and logical limits are identified that clearly show the grouping of common functionalities. It seeks to narrow down the total scope of an application somewhat, modeling the responsibilities of the components, through a rigorous process of identifying common functionalities that make it possible to establish a logical limit of responsibilities. See the guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/13194/Bounded-contexts-como-Microservicios?anchor=bounded-contexts-como-microservicios\">Bounded contexts as Microservices.</a></p> ",
             "key": "Bounded context as microservices",
             "id": "Bounded context as microservices",
             "title": "Bounded context as microservices",
@@ -1330,7 +1330,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>With <b>Domain contexts instead of Layered Silos</b> we seek a different approach when thinking about the organization, an approach that seeks to find and define the different layers by business models rather than defining silos or pre-defined layers. established in the organization. <br>This practice is closely linked to the practice of Event First Domain Driven Design because this practice seeks to solidify the emphasis on events, how to define them , use them, model them, contextualize the implications and differences with a traditional model, leading us to event-oriented systems.<br> You can see below the guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/12436/Event-First-Domain-driven-Design-(DDD)\">Domain contexts instead of Layered Silos</a> </p>",
+            "description": "<p>With <b>Domain contexts instead of Layered Silos</b> we seek a different approach when thinking about the organization, an approach that seeks to find and define the different layers by business models rather than defining silos or pre-defined layers. established in the organization. <br>This practice is closely linked to the practice of Event First Domain Driven Design because this practice seeks to solidify the emphasis on events, how to define them , use them, model them, contextualize the implications and differences with a traditional model, leading us to event-oriented systems.<br> You can see below the guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/12436/Event-First-Domain-driven-Design-(DDD)\">Domain contexts instead of Layered Silos</a> </p>",
             "key": "Domain contexts instead of Layered Silos",
             "id": "Domain contexts instead of Layered Silos",
             "title": "Domain contexts instead of Layered Silos",
@@ -1344,7 +1344,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>The comparison <b>Message Orientation vs Synchronous Service Orientation</b> seeks to elucidate the types of interaction that can occur between distributed systems, which is normally governed by two forms of communication: synchronous communications and asynchronous communications. These are represented in practice in two concepts that are very much in use today and almost in opposition: Message-driven services vs. Synchronic services. <br>Taking this into account when designing the application is key, as it will determine the consistency and robustness of our application. For this we are going to review conceptual considerations to take into account, not only in relation to implementation, but especially in the design section.<br> You can see below the guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/13192/Orientaci\u00c3\u00b3n-a-Mensajes-vs-Orientaci\u00c3\u00b3n-a-servicios-s\u00c3\u00adncronos\">Message Orientation vs Synchronous Service Orientation</a> </p>",
+            "description": "<p>The comparison <b>Message Orientation vs Synchronous Service Orientation</b> seeks to elucidate the types of interaction that can occur between distributed systems, which is normally governed by two forms of communication: synchronous communications and asynchronous communications. These are represented in practice in two concepts that are very much in use today and almost in opposition: Message-driven services vs. Synchronic services. <br>Taking this into account when designing the application is key, as it will determine the consistency and robustness of our application. For this we are going to review conceptual considerations to take into account, not only in relation to implementation, but especially in the design section.<br> You can see below the guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/13192/Orientaci\u00f3n-a-Mensajes-vs-Orientaci\u00f3n-a-servicios-s\u00edncronos\">Message Orientation vs Synchronous Service Orientation</a> </p>",
             "key": "Message Orientation vs Synchronous Services Orientation",
             "id": "Message Orientation vs Synchronous Services Orientation",
             "title": "Message Orientation vs Synchronous Services Orientation",
@@ -1372,7 +1372,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>The <b>License compliance</b> is of the utmost importance in open source and since Bancolombia has open source projects, it is necessary to clarify the matter. This practice seeks to make it completely clear what can and cannot be done with the open source software provided by us to developers external to Grupo Bancolombia. In addition, it aims to make clear the terms of use of the type of license under which a certain software component released as open source is.</p> You can see the guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/7371/Licencias\">Licence Compliance.</a> ",
+            "description": "<p>The <b>License compliance</b> is of the utmost importance in open source and since Bancolombia has open source projects, it is necessary to clarify the matter. This practice seeks to make it completely clear what can and cannot be done with the open source software provided by us to developers external to Grupo Bancolombia. In addition, it aims to make clear the terms of use of the type of license under which a certain software component released as open source is.</p> You can see the guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/7371/Licencias\">Licence Compliance.</a> ",
             "key": "Licence compliance",
             "id": "Licence compliance",
             "title": "Licence compliance",
@@ -1386,10 +1386,10 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p><b>The Evaluation Criteria for the use of Open source</b> is a practice that gives important guidelines when considering the use of a library, framework or open source code is the license it has associated. Improperly choosing to use code under a specific license may have legal implications for the organization. You can see the complete guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/7371/Licencias\">Evaluation criteria for the use of Open source</a></p> ",
-            "key": "Evaluation criteria for the use\u00e2\u20ac\u2039 of Open source",
-            "id": "Evaluation criteria for the use\u00e2\u20ac\u2039 of Open source",
-            "title": "Evaluation criteria for the use\u00e2\u20ac\u2039 of Open source",
+            "description": "<p><b>The Evaluation Criteria for the use of Open source</b> is a practice that gives important guidelines when considering the use of a library, framework or open source code is the license it has associated. Improperly choosing to use code under a specific license may have legal implications for the organization. You can see the complete guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/7371/Licencias\">Evaluation criteria for the use of Open source</a></p> ",
+            "key": "Evaluation criteria for the use\u200b of Open source",
+            "id": "Evaluation criteria for the use\u200b of Open source",
+            "title": "Evaluation criteria for the use\u200b of Open source",
             "timeline": [
                 {
                     "moved": 0,
@@ -1414,7 +1414,7 @@
         },
         {
             "quadrant": "techniques",
-            "description": "<p>The practice of <b>Code Style </b> aims to provide a set of conventions that allow unifying the style used for coding, increasing the readability, maintainability and extensibility of the code. The style of the code is related to the appearance of the code, coding with a suitable style increases readability, helps to detect errors and decreases the amount of effort in studying the code when it needs to be refactored. You can see the complete guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00c3\u00ada.wiki/7750/Code-Style\">Code Style</a></p> ",
+            "description": "<p>The practice of <b>Code Style </b> aims to provide a set of conventions that allow unifying the style used for coding, increasing the readability, maintainability and extensibility of the code. The style of the code is related to the appearance of the code, coding with a suitable style increases readability, helps to detect errors and decreases the amount of effort in studying the code when it needs to be refactored. You can see the complete guideline on <a href=\"https://dev.azure.com/GrupoBancolombia/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda/_wiki/wikis/Vicepresidencia%20Servicios%20de%20Tecnolog\u00eda.wiki/7750/Code-Style\">Code Style</a></p> ",
             "key": "Code Style",
             "id": "Code Style",
             "title": "Code Style",
@@ -1428,7 +1428,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p> Amazon Polly is a service that converts text into realistic speech, allowing you to create applications that speak and entirely new categories of products with this capability. You can find more information <a href='https://aws.amazon.com/es/polly/'>here\u00ef\u00bf\u00bd</a></p> ",
+            "description": "<p> Amazon Polly is a service that converts text into realistic speech, allowing you to create applications that speak and entirely new categories of products with this capability. You can find more information <a href='https://aws.amazon.com/es/polly/'>here\ufffd</a></p> ",
             "key": "Amazon Polly",
             "id": "Amazon Polly",
             "title": "Amazon Polly",
@@ -1442,7 +1442,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p> Amazon EMR is the industry's leading cloud big data platform for processing large volumes of data using open source tools such as Apache Spark, Apache Hive, Apache HBase, Apache Flink, Apache Hudi, and Presto. you can find more information <a href='https://aws.amazon.com/es/emr/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc'>here\u00ef\u00bf\u00bd</a></p> ",
+            "description": "<p> Amazon EMR is the industry's leading cloud big data platform for processing large volumes of data using open source tools such as Apache Spark, Apache Hive, Apache HBase, Apache Flink, Apache Hudi, and Presto. you can find more information <a href='https://aws.amazon.com/es/emr/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc'>here\ufffd</a></p> ",
             "key": "Amazon EMR",
             "id": "Amazon EMR",
             "title": "Amazon EMR",
@@ -1624,7 +1624,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html\">Amazon Route 53</a> Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. You can use Route 53 to perform three main functions in any combination: domain registration, DNS routing, and health checking. </p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html\">Amazon Route 53</a> Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. You can use Route 53 to perform three main functions in any combination: domain registration, DNS routing, and health checking. </p>",
             "key": "Amazon Route53",
             "id": "Amazon Route53",
             "title": "Amazon Route53",
@@ -1638,7 +1638,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/sns/latest/dg/welcome.html\">Amazon SNS</a> is a managed service that provides message delivery from publishers to subscribers (also known as\u00ef\u00bf\u00bdproducers\u00ef\u00bf\u00bdand\u00ef\u00bf\u00bdconsumers).Publishers communicate asynchronously with subscribers by sending messages to a\u00ef\u00bf\u00bdtopic, which is a logical access point and communication channel. Clients can subscribe to the SNS topic and receive published messages using a supported endpoint type, such as Amazon Kinesis Data Firehose, Amazon SQS, AWS Lambda, HTTP, email, mobile push notifications, and mobile text messages (SMS)..</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/sns/latest/dg/welcome.html\">Amazon SNS</a> is a managed service that provides message delivery from publishers to subscribers (also known as\ufffdproducers\ufffdand\ufffdconsumers).Publishers communicate asynchronously with subscribers by sending messages to a\ufffdtopic, which is a logical access point and communication channel. Clients can subscribe to the SNS topic and receive published messages using a supported endpoint type, such as Amazon Kinesis Data Firehose, Amazon SQS, AWS Lambda, HTTP, email, mobile push notifications, and mobile text messages (SMS)..</p>",
             "key": "Amazon SNS (Simple Notification Service)",
             "id": "Amazon SNS (Simple Notification Service)",
             "title": "Amazon SNS (Simple Notification Service)",
@@ -1666,7 +1666,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html\">Amazon ACM</a> handles the complexity of creating, storing, and renewing public and private SSL/TLS X.509 certificates and keys that protect your AWS websites and applications.</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html\">Amazon ACM</a> handles the complexity of creating, storing, and renewing public and private SSL/TLS X.509 certificates and keys that protect your AWS websites and applications.</p>",
             "key": "Amazon Certificate Manager (ACM)",
             "id": "Amazon Certificate Manager (ACM)",
             "title": "Amazon Certificate Manager (ACM)",
@@ -1680,7 +1680,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/glue/latest/ug/what-is-glue-studio.html\">Amazon Glue</a> is a new graphical interface that makes it easy to create, run, and monitor extract, transform, and load (ETL) jobs in AWS Glue. You can visually compose data transformation workflows and seamlessly run them on AWS Glue\u00ef\u00bf\u00bds Apache Spark-based serverless ETL engine. You can inspect the schema and data results in each step of the job..</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/glue/latest/ug/what-is-glue-studio.html\">Amazon Glue</a> is a new graphical interface that makes it easy to create, run, and monitor extract, transform, and load (ETL) jobs in AWS Glue. You can visually compose data transformation workflows and seamlessly run them on AWS Glue\ufffds Apache Spark-based serverless ETL engine. You can inspect the schema and data results in each step of the job..</p>",
             "key": "Amazon Glue",
             "id": "Amazon Glue",
             "title": "Amazon Glue",
@@ -1694,7 +1694,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html\">Amazon Datasync</a> AWS DataSync is an online data transfer service that simplifies, automates, and accelerates moving data between storage systems and services..</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html\">Amazon Datasync</a> AWS DataSync is an online data transfer service that simplifies, automates, and accelerates moving data between storage systems and services..</p>",
             "key": "Amazon DataSync ",
             "id": "Amazon DataSync ",
             "title": "Amazon DataSync ",
@@ -1708,7 +1708,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/kms/latest/developerguide/overview.html\">Amazon KMS</a> AWS Key Management Service (AWS KMS) is a managed service that makes it easy for you to create and control the cryptographic keys that are used to protect your data..</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/kms/latest/developerguide/overview.html\">Amazon KMS</a> AWS Key Management Service (AWS KMS) is a managed service that makes it easy for you to create and control the cryptographic keys that are used to protect your data..</p>",
             "key": "Amazon KMS (Key Management Service)",
             "id": "Amazon KMS (Key Management Service)",
             "title": "Amazon KMS (Key Management Service)",
@@ -1722,7 +1722,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/dms/latest/userguide/Welcome.html\">Amazon DMS</a>  is a cloud service that makes it possible to migrate relational databases, data warehouses, NoSQL databases, and other types of data stores. You can use AWS DMS to migrate your data into the AWS Cloud or between combinations of cloud and on-premises setups...</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/dms/latest/userguide/Welcome.html\">Amazon DMS</a>  is a cloud service that makes it possible to migrate relational databases, data warehouses, NoSQL databases, and other types of data stores. You can use AWS DMS to migrate your data into the AWS Cloud or between combinations of cloud and on-premises setups...</p>",
             "key": "Amazon DMS (Database Migration Services)",
             "id": "Amazon DMS (Database Migration Services)",
             "title": "Amazon DMS (Database Migration Services)",
@@ -1736,7 +1736,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/step-functions/latest/dg/welcome.html\">Amazon Step Functions</a> AWS Step Functions is a serverless orchestration service that lets you integrate with AWS Lambda functions and other AWS services to build business-critical applications. Through Step Functions' graphical console, you see your application\u00ef\u00bf\u00bds workflow as a series of event-driven steps...</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/step-functions/latest/dg/welcome.html\">Amazon Step Functions</a> AWS Step Functions is a serverless orchestration service that lets you integrate with AWS Lambda functions and other AWS services to build business-critical applications. Through Step Functions' graphical console, you see your application\ufffds workflow as a series of event-driven steps...</p>",
             "key": "Amazon Step Functions",
             "id": "Amazon Step Functions",
             "title": "Amazon Step Functions",
@@ -1750,7 +1750,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/mgn/latest/ug/what-is-application-migration-service.html\">Amazon MGN</a> AWS Application Migration Service (MGN) is a highly automated lift-and-shift (rehost) solution that simplifies, expedites, and reduces the cost of migrating applications to AWS..</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/mgn/latest/ug/what-is-application-migration-service.html\">Amazon MGN</a> AWS Application Migration Service (MGN) is a highly automated lift-and-shift (rehost) solution that simplifies, expedites, and reduces the cost of migrating applications to AWS..</p>",
             "key": "Amazon Application Migration Service (AWS MGN)",
             "id": "Amazon Application Migration Service (AWS MGN)",
             "title": "Amazon Application Migration Service (AWS MGN)",
@@ -1764,7 +1764,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html\">Amazon ECR</Amazon Elastic Container Registry (Amazon ECR) is an AWS managed container image registry service that is secure, scalable, and reliable.....</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html\">Amazon ECR</Amazon Elastic Container Registry (Amazon ECR) is an AWS managed container image registry service that is secure, scalable, and reliable.....</p>",
             "key": "Amazon Elastic Container Registry (ECR)",
             "id": "Amazon Elastic Container Registry (ECR)",
             "title": "Amazon Elastic Container Registry (ECR)",
@@ -1778,7 +1778,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/macie/latest/user/what-is-macie.html\">Amazon Macie</Amazon Macie is a data security service that discovers sensitive data by using machine learning and pattern matching, provides visibility into data security risks, and enables automated protection against those risks.....</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/macie/latest/user/what-is-macie.html\">Amazon Macie</Amazon Macie is a data security service that discovers sensitive data by using machine learning and pattern matching, provides visibility into data security risks, and enables automated protection against those risks.....</p>",
             "key": "Amazon Macie",
             "id": "Amazon Macie",
             "title": "Amazon Macie",
@@ -1792,7 +1792,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/waf/latest/developerguide/ddos-overview.html\">Amazon Shield</AWS Shield Standard and AWS Shield Advanced provide protections against Distributed Denial of Service (DDoS) attacks for AWS resources at the network and transport layers (layer 3 and 4) and the application layer.....</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/waf/latest/developerguide/ddos-overview.html\">Amazon Shield</AWS Shield Standard and AWS Shield Advanced provide protections against Distributed Denial of Service (DDoS) attacks for AWS resources at the network and transport layers (layer 3 and 4) and the application layer.....</p>",
             "key": "Amazon Shield advanced",
             "id": "Amazon Shield advanced",
             "title": "Amazon Shield advanced",
@@ -1806,7 +1806,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/neptune/latest/userguide/intro.html\">Amazon Neptune</ is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets......</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/neptune/latest/userguide/intro.html\">Amazon Neptune</ is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets......</p>",
             "key": "Amazon  Neptune ",
             "id": "Amazon  Neptune ",
             "title": "Amazon  Neptune ",
@@ -1820,7 +1820,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p><a href=\u00ef\u00bf\u00bdhttps://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html\">Amazon IAM</ is a web service that helps you securely control access to AWS resources. With IAM, you can centrally manage permissions that control which AWS resources users can access. You use IAM to control who is authenticated (signed in) and authorized (has permissions) to use resources......</p>",
+            "description": "<p><a href=\ufffdhttps://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html\">Amazon IAM</ is a web service that helps you securely control access to AWS resources. With IAM, you can centrally manage permissions that control which AWS resources users can access. You use IAM to control who is authenticated (signed in) and authorized (has permissions) to use resources......</p>",
             "key": "Amazon Identity and Access Management (IAM)",
             "id": "Amazon Identity and Access Management (IAM)",
             "title": "Amazon Identity and Access Management (IAM)",
@@ -1848,7 +1848,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p> Amazon CodeGuru is a developer tool that provides intelligent recommendations to improve code quality and identify an application\u00ef\u00bf\u00bds most expensive lines of code.</p>",
+            "description": "<p> Amazon CodeGuru is a developer tool that provides intelligent recommendations to improve code quality and identify an application\ufffds most expensive lines of code.</p>",
             "key": "Amazon CodeGuru",
             "id": "Amazon CodeGuru",
             "title": "Amazon CodeGuru",
@@ -1862,7 +1862,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p> Amazon CodeGuru is a developer tool that provides intelligent recommendations to improve code quality and identify an application\u00ef\u00bf\u00bds most expensive lines of code.</p>",
+            "description": "<p> Amazon CodeGuru is a developer tool that provides intelligent recommendations to improve code quality and identify an application\ufffds most expensive lines of code.</p>",
             "key": "Amazon Corretto (Open JDK)",
             "id": "Amazon Corretto (Open JDK)",
             "title": "Amazon Corretto (Open JDK)",
@@ -1890,7 +1890,7 @@
         },
         {
             "quadrant": "platforms",
-            "description": "<p> Amazon DevOps Guru is a service powered by machine learning (ML) that gives you a simpler way to measure and improve an application's operational performance and availability and reduce expensive downtime\u00ef\u00bf\u00bdno machine learning expertise required. With DevOps Guru, you only pay for what you use..</p>",
+            "description": "<p> Amazon DevOps Guru is a service powered by machine learning (ML) that gives you a simpler way to measure and improve an application's operational performance and availability and reduce expensive downtime\ufffdno machine learning expertise required. With DevOps Guru, you only pay for what you use..</p>",
             "key": "Amazon DevOps Guru",
             "id": "Amazon DevOps Guru",
             "title": "Amazon DevOps Guru",
